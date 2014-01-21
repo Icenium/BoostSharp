@@ -1,0 +1,8 @@
+
+*.opensdf
+*.sdf
+*.suo
+*.filters
+*.user
+*/bin/
+*/obj/
